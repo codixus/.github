@@ -16,6 +16,10 @@ We combine engineering expertise with simplicity to build AI-powered products pe
 
 <br>
 
+## Open Source
+
+**[react-shot](https://github.com/codixus/react-shot)** — Store screenshot SDK for React. Built for AI agents.
+
 ## Developer Tools
 
 **[Codixus Dev](https://codixus.dev)** — Free & Browser-Based Tools for Developers
@@ -29,4 +33,3 @@ We combine engineering expertise with simplicity to build AI-powered products pe
 **[FiberCheck](https://fibercheck.app)** — AI Fabric Analyzer
 
 [See all products →](https://codixus.com/products)
-
