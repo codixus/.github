@@ -4,7 +4,7 @@
 
 <br>
 
-### Redefining the future with AI-driven apps.
+### We ship the products we'd want to use.
 
 We combine engineering expertise with simplicity to build AI-powered products people love to use.
 
