@@ -18,6 +18,8 @@ We combine engineering expertise with simplicity to build AI-powered products pe
 
 ## Open Source
 
+**[mcpready](https://github.com/codixus/mcpready)** — Readiness scorecard for MCP servers. Every finding cites the exact spec clause it checks.  
+**[agentradar](https://github.com/codixus/agentradar)** — CLI that checks whether a site is visible and usable to AI agents.  
 **[react-shot](https://github.com/codixus/react-shot)** — Store screenshot SDK for React. Built for AI agents.
 
 ## Developer Tools
