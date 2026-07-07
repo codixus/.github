@@ -30,7 +30,6 @@ We combine engineering expertise with simplicity to build AI-powered products pe
 
 **[Flast](https://flast.ai)** — AI Companion  
 **[Curtain AI](https://curtainai.app)** — AI Home Designer  
-**[RapidSpeak](https://rapidspeak.app)** — Voice & Text AI Productivity  
 **[Prompt Jr](https://promptjr.app)** — AI Learning for Kids  
 **[FiberCheck](https://fibercheck.app)** — AI Fabric Analyzer
 
