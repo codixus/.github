@@ -28,9 +28,9 @@ We combine engineering expertise with simplicity to build AI-powered products pe
 
 ## Products
 
-**[Flast](https://flast.ai)** — AI Companion  
 **[Curtain AI](https://curtainai.app)** — AI Home Designer  
-**[Prompt Jr](https://promptjr.app)** — AI Learning for Kids  
-**[FiberCheck](https://fibercheck.app)** — AI Fabric Analyzer
+**[FiberCheck](https://fibercheck.app)** — AI Fabric Analyzer  
+**[Bluffin](https://bluffin.app)** — Secret Word Party Game  
+**[Be Judge](https://bejudge.com)** — Real Life Dilemmas Game
 
 [See all products →](https://codixus.com/products)
